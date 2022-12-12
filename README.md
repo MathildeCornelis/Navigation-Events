@@ -13,6 +13,7 @@ This repository was created on December 5, 2022. This project is an exercise rea
 ## Language
 
 - HTML
+- CSS
 - JS
 
 ---
